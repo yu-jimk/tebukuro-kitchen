@@ -66,7 +66,7 @@ https://tebukuro-kitchen.vercel.app/
 ## ■ ER図
 <img width="2270" height="1410" alt="Image" src="https://github.com/user-attachments/assets/062b7526-834c-42be-8c0a-398755d3129c" />
 
-# ■ 今後の展望
+## ■ 今後の展望
 - 複数レシピの同時進行機能  
   主菜と副菜など、複数のレシピを同時に表示・管理し、タイミングを見ながら並行して調理できる機能を追加。
   
